@@ -1,0 +1,6 @@
+firstName,lastName,streetAddress,city,state,zipCode,phoneNumber,ssn,username,password,repeatedPassword
+John,Doe,123 Main St,Anytown,California,90210,1234567890,123456789,noha_doe016,Password123,Password123
+Alice,Smith,456 Elm St,Springfield,Illinois,62701,9876543210,987654321,slice_smith174,Secret987,Secret987
+Bob,Johnson,789 Oak Ave,Oakland,California,94601,4567890123,456789012,bobe_jonson138,Secure456,Secure456
+Emma,Brown,321 Pine Rd,Pineville,Louisiana,71360,7890123456,789012345,imma_brwn116,Password789,Password789
+Jack,Williams,567 Cedar Ln,Cedar Rapids,Iowa,52404,8901234567,890123456,reacher_wiliams25,Confidential123,Confidential123
